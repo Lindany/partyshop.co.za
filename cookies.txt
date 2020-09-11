@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kids-outfit.myshopify.com	TRUE	/3370647667/checkouts/ef482ed52d4f6823d670560b89e8d582	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUzTVdGalpqSTJNMlV3T0dRMVpESXlPVEkxTkdaak56WXpNR1F3WTJRMU9BWTZCa1ZVIiwiZXhwIjoiMjAyMC0xMC0wMlQwOToyNzo1My44MDBaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--58a00db9d763b95cb1a4ddc0251af5ba1193efcd
+kids-outfit.myshopify.com	TRUE	/3370647667	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVZsWmpRNE1tVmtOVEprTkdZMk9ESXpaRFkzTURVMk1HSTRPV1U0WkRVNE1nWTZCa1ZVIiwiZXhwIjoiMjAyMS0wOS0xMVQwOToyNzo1My44MDFaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--368bd314a54aee3f5e4568f3afc9407ea62b9208
+.myshopify.com	TRUE	/	FALSE	1999999999	__cfduid	deb200cac617770691dc429094e190ea71599816455
+kids-outfit.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+kids-outfit.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+kids-outfit.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-central1%3A1
+kids-outfit.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1599816472
+kids-outfit.myshopify.com	TRUE	/	FALSE	1999999999	cart	28295982aaeb168639e5841b4ce98558
+kids-outfit.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	4c74f176-0286-432e-81f0-d86c22e1ba5b
+kids-outfit.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	d33fe674e4d629c8f80800a8e76abbfa
+kids-outfit.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+kids-outfit.myshopify.com	TRUE	/	FALSE	1999999999	_y	0d8a6f80-223c-4849-82d5-93c1f7b187a9
+kids-outfit.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	0d8a6f80-223c-4849-82d5-93c1f7b187a9
+

@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kids-outfit.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kids-outfit.myshopify.com/collections/all.atom"/>
+  <title>Susie</title>
+  <updated>2018-07-13T01:48:07-04:00</updated>
+  <author>
+    <name>Susie</name>
+  </author>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1230506524787</id>
+    <published>2018-07-13T01:48:07-04:00</published>
+    <updated>2018-07-13T01:48:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/knitted-baby-frock"/>
+    <title>Knitted Baby,Frock</title>
+    <s:type>Frock</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product26.jpg?v=1531461120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Frock<br>
+        <strong>Price: </strong>
+            569.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Frock</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1230506524787</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">569.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1230483947635</id>
+    <published>2018-07-13T01:48:06-04:00</published>
+    <updated>2018-07-13T01:48:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/multi-color-frock"/>
+    <title>Multi-Color Frock</title>
+    <s:type>Frock</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product27.jpg?v=1531460958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Frock<br>
+        <strong>Price: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Frock</s:tag>
+    <s:tag>Nicole Miller</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1230483947635</id>
+      <title>S / Red</title>
+      <s:price currency="USD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1230168391795</id>
+    <published>2018-07-13T01:02:51-04:00</published>
+    <updated>2018-07-13T01:02:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/export-womens-cotton"/>
+    <title>Export Women&apos;s Cotton</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Boon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product19.jpg?v=1531458246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boon<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            459.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Boon</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1230168391795</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">459.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1230410776691</id>
+    <published>2018-07-13T01:01:21-04:00</published>
+    <updated>2018-07-13T01:01:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/regular-fit-skirt"/>
+    <title>Regular Fit Skirt</title>
+    <s:type>Skirt</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product23.jpg?v=1531460220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Skirt<br>
+        <strong>Price: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Skirt</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1230410776691</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1230361690227</id>
+    <published>2018-07-13T01:01:21-04:00</published>
+    <updated>2018-07-13T01:01:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/girls-casual-skirt"/>
+    <title>Girls Casual Skirt</title>
+    <s:type>Skirts</s:type>
+    <s:vendor>Converse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product20.jpg?v=1531459710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Converse<br>
+        <strong>Type: </strong>Skirts<br>
+        <strong>Price: </strong>
+            329.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Converse</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1230361690227</id>
+      <title>M / Black</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1230447706227</id>
+    <published>2018-07-13T01:01:20-04:00</published>
+    <updated>2018-07-13T01:01:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/printed-legging-dress"/>
+    <title>Printed Legging Dress</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product14.jpg?v=1531460600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Nicole Miller</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1230447706227</id>
+      <title>S / Black</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1230425981043</id>
+    <published>2018-07-13T01:01:19-04:00</published>
+    <updated>2018-07-13T01:01:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/sleeves-shirt-pant-set"/>
+    <title>Sleeves Shirt Pant Set</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product5.jpg?v=1531460378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            389.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1230425981043</id>
+      <title>M / Grey</title>
+      <s:price currency="USD">389.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/885659402355</id>
+    <published>2018-06-02T02:56:43-04:00</published>
+    <updated>2018-06-02T02:56:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/fairy-pleated-dress"/>
+    <title>Fairy Pleated Dress</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Converse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product18.jpg?v=1531456322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Converse<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            239.00 - 299.00
+            <a href="https://kids-outfit.myshopify.com/products/fairy-pleated-dress">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Converse</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885659402355</id>
+      <title>M / White</title>
+      <s:price currency="USD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885659402355</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">248.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885659402355</id>
+      <title>S / Pink</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223092240499</id>
+    <published>2018-06-02T02:56:20-04:00</published>
+    <updated>2018-06-02T02:56:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/net-party-gown"/>
+    <title>Net Party Gown</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product3_d9938c08-21b7-40a0-aecd-84ea2c47f03d.jpg?v=1531392106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            478.00 - 498.00
+            <a href="https://kids-outfit.myshopify.com/products/net-party-gown">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Nicole Miller</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223092240499</id>
+      <title>S / Pink / Wool</title>
+      <s:price currency="USD">498.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223092240499</id>
+      <title>M / Red / Polyester</title>
+      <s:price currency="USD">478.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223092240499</id>
+      <title>L / Blue / Silk</title>
+      <s:price currency="USD">498.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223059374195</id>
+    <published>2018-06-02T02:56:20-04:00</published>
+    <updated>2018-06-02T02:56:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/sifone-frock-dress"/>
+    <title>Sifone Frock Dress</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product8_da0a2eb8-15a8-4bf6-880c-d7b51e8c422f.jpg?v=1531391916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            478.00 - 498.00
+            <a href="https://kids-outfit.myshopify.com/products/sifone-frock-dress">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>Nicole Miller</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223059374195</id>
+      <title>S / Red / Wool</title>
+      <s:price currency="USD">498.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223059374195</id>
+      <title>M / Blue / Polyester</title>
+      <s:price currency="USD">478.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223059374195</id>
+      <title>L / Pink / Silk</title>
+      <s:price currency="USD">498.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/885656911987</id>
+    <published>2018-06-02T02:56:20-04:00</published>
+    <updated>2018-06-02T02:56:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/aarika-layered-party-dress"/>
+    <title>Aarika Layered Party Dress</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product4.jpg?v=1531391778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            478.00 - 498.00
+            <a href="https://kids-outfit.myshopify.com/products/aarika-layered-party-dress">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Nicole Miller</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885656911987</id>
+      <title>S / blue / Wool</title>
+      <s:price currency="USD">498.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885656911987</id>
+      <title>M / red / Polyester</title>
+      <s:price currency="USD">478.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885656911987</id>
+      <title>L / pink / Silk</title>
+      <s:price currency="USD">498.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223524974707</id>
+    <published>2018-06-02T02:56:10-04:00</published>
+    <updated>2018-06-02T02:56:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/top-with-full-sleevesn"/>
+    <title>Top with Full Sleeves</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product25_56bb5b78-5598-4171-8d5e-dae7dd72f8db.jpg?v=1531394245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            134.00 - 334.00
+            <a href="https://kids-outfit.myshopify.com/products/top-with-full-sleevesn">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Nicole Miller</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223524974707</id>
+      <title>S / Blue / Silk</title>
+      <s:price currency="USD">134.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223524974707</id>
+      <title>L / White / Polyester</title>
+      <s:price currency="USD">244.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223524974707</id>
+      <title>M / Pink / Wool</title>
+      <s:price currency="USD">334.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223493451891</id>
+    <published>2018-06-02T02:56:10-04:00</published>
+    <updated>2018-06-02T02:56:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/cotton-t-shirt-fit"/>
+    <title>Cotton T-Shirt Fit</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product15_93917301-c9bb-4c25-9b39-30977bc705ce.jpg?v=1531394076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            134.00 - 334.00
+            <a href="https://kids-outfit.myshopify.com/products/cotton-t-shirt-fit">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Nicole Miller</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223493451891</id>
+      <title>S / White / Silk</title>
+      <s:price currency="USD">134.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223493451891</id>
+      <title>L / Pink / Polyester</title>
+      <s:price currency="USD">244.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223493451891</id>
+      <title>M / Blue / Wool</title>
+      <s:price currency="USD">334.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/885656027251</id>
+    <published>2018-06-02T02:56:10-04:00</published>
+    <updated>2018-06-02T02:56:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/classic-audrey-dress"/>
+    <title>Classic Audrey Dress</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product10.jpg?v=1531393991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            134.00 - 334.00
+            <a href="https://kids-outfit.myshopify.com/products/classic-audrey-dress">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Nicole Miller</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885656027251</id>
+      <title>S / Pink / Silk</title>
+      <s:price currency="USD">134.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885656027251</id>
+      <title>L / White / Polyester</title>
+      <s:price currency="USD">244.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885656027251</id>
+      <title>M / Blue / Wool</title>
+      <s:price currency="USD">334.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223225278579</id>
+    <published>2018-06-02T02:55:52-04:00</published>
+    <updated>2018-06-02T02:55:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/girls-a-line-dress"/>
+    <title>Girls&apos; A Line Dress</title>
+    <s:type>Skirts</s:type>
+    <s:vendor>Boon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product17_a816386d-637f-44dd-b94e-ebb362ac355c.jpg?v=1531392731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boon<br>
+        <strong>Type: </strong>Skirts<br>
+        <strong>Price: </strong>
+            328.00 - 439.00
+            <a href="https://kids-outfit.myshopify.com/products/girls-a-line-dress">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Boon</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223225278579</id>
+      <title>S / Blue / Silk</title>
+      <s:price currency="USD">328.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223225278579</id>
+      <title>L / Yellow / Polyester</title>
+      <s:price currency="USD">439.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223225278579</id>
+      <title>M / Pink / Wool</title>
+      <s:price currency="USD">429.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223207354483</id>
+    <published>2018-06-02T02:55:52-04:00</published>
+    <updated>2018-06-02T02:55:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/fashion-baby-girls"/>
+    <title>Fashion Baby Girl&apos;s</title>
+    <s:type>Skirts</s:type>
+    <s:vendor>Boon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product6_3b4522d9-4280-43f4-910c-7cfdbe723a70.jpg?v=1531392645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boon<br>
+        <strong>Type: </strong>Skirts<br>
+        <strong>Price: </strong>
+            328.00 - 439.00
+            <a href="https://kids-outfit.myshopify.com/products/fashion-baby-girls">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Boon</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223207354483</id>
+      <title>S / Yellow / Silk</title>
+      <s:price currency="USD">328.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223207354483</id>
+      <title>L / Pink / Polyester</title>
+      <s:price currency="USD">439.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223207354483</id>
+      <title>M / Blue / Wool</title>
+      <s:price currency="USD">429.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/885653962867</id>
+    <published>2018-06-02T02:55:52-04:00</published>
+    <updated>2018-06-02T02:55:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/baby-girls-frock"/>
+    <title>Baby Girl&apos;s Frock</title>
+    <s:type>Skirts</s:type>
+    <s:vendor>Boon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product1.jpg?v=1531392496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boon<br>
+        <strong>Type: </strong>Skirts<br>
+        <strong>Price: </strong>
+            328.00 - 439.00
+            <a href="https://kids-outfit.myshopify.com/products/baby-girls-frock">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Boon</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885653962867</id>
+      <title>S / Pink / Silk</title>
+      <s:price currency="USD">328.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885653962867</id>
+      <title>L / Yellow / Polyester</title>
+      <s:price currency="USD">439.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885653962867</id>
+      <title>M / Blue / Wool</title>
+      <s:price currency="USD">429.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223315914867</id>
+    <published>2018-06-02T02:55:50-04:00</published>
+    <updated>2018-06-02T02:55:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/orchid-baby-girls"/>
+    <title>Orchid Baby Girl&apos;s</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Converse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product13_50d4c0cd-4921-40bb-aa16-0468afdc67cf.jpg?v=1531393205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Converse<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            106.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Converse</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223315914867</id>
+      <title>S / White / Silk</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223315914867</id>
+      <title>L / Black / cotton</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223315914867</id>
+      <title>M / Pink / Wool</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223289274483</id>
+    <published>2018-06-02T02:55:50-04:00</published>
+    <updated>2018-06-02T02:55:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/long-frock-dress"/>
+    <title>Long Frock Dress</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Converse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product7_0fb4ff86-fa34-46d1-9de1-653df594b636.jpg?v=1531393058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Converse<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            106.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Converse</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Sandal</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223289274483</id>
+      <title>S / Black / Silk</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223289274483</id>
+      <title>L / Pink / cotton</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223289274483</id>
+      <title>M / White / Wool</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/885653766259</id>
+    <published>2018-06-02T02:55:50-04:00</published>
+    <updated>2018-06-02T02:55:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/fancy-frock"/>
+    <title>Fancy Frock</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Converse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product2.jpg?v=1531392933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Converse<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            106.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Converse</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885653766259</id>
+      <title>S / Pink / Silk</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885653766259</id>
+      <title>L / Black / cotton</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885653766259</id>
+      <title>M / White / Wool</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223630061683</id>
+    <published>2018-06-02T02:55:37-04:00</published>
+    <updated>2018-06-02T02:55:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/crepe-skater-dress"/>
+    <title>Crepe Skater Dress</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Boon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product28_e9849e19-37af-43f6-be60-e9c25f8ab8d9.jpg?v=1531394902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boon<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            218.00 - 289.00
+            <a href="https://kids-outfit.myshopify.com/products/crepe-skater-dress">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boon</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223630061683</id>
+      <title>S / Green / Cotton</title>
+      <s:price currency="USD">218.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223630061683</id>
+      <title>L / Sandal / Silk</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223630061683</id>
+      <title>M / Blue / Wool</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223574782067</id>
+    <published>2018-06-02T02:55:37-04:00</published>
+    <updated>2018-06-02T02:55:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/transparent-top"/>
+    <title>Transparent Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Boon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product22_1d97f8eb-a4bc-452e-9e48-be6b3003339b.jpg?v=1531394548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boon<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            218.00 - 289.00
+            <a href="https://kids-outfit.myshopify.com/products/transparent-top">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boon</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Sandal</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223574782067</id>
+      <title>S / Sandal / Cotton</title>
+      <s:price currency="USD">218.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223574782067</id>
+      <title>L / Blue / Silk</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223574782067</id>
+      <title>M / Green / Wool</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/885652422771</id>
+    <published>2018-06-02T02:55:37-04:00</published>
+    <updated>2018-06-02T02:55:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/prt-26"/>
+    <title>Delightful Daisies Dress</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Boon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product16.jpg?v=1531394413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boon<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boon</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885652422771</id>
+      <title>S / Blue / Cotton</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885652422771</id>
+      <title>L / Sandal / Silk</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/885652422771</id>
+      <title>M / Green / Wool</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223452196979</id>
+    <published>2018-06-02T02:55:31-04:00</published>
+    <updated>2018-06-02T02:55:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/karo-baby-girls-frock"/>
+    <title>Karo Baby Girl&apos;s Frock</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product12_5b48e452-faaf-4e60-80a3-f13ab4458aa4.jpg?v=1531393895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223452196979</id>
+      <title>S / Pink / cotton</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223452196979</id>
+      <title>L / Pink / Wool</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223452196979</id>
+      <title>M / Pink / Silk</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kids-outfit.myshopify.com/products/1223403896947</id>
+    <published>2018-06-02T02:55:31-04:00</published>
+    <updated>2018-06-02T02:55:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kids-outfit.myshopify.com/products/layered-party-wear"/>
+    <title>Layered Party Wear</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0033/7064/7667/products/product11_008e48ca-a4d2-4ca5-b8a4-495220c6a3e5.jpg?v=1531393647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223403896947</id>
+      <title>S / Pink / cotton</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223403896947</id>
+      <title>L / Pink / Wool</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kids-outfit.myshopify.com/products/1223403896947</id>
+      <title>M / Pink / Silk</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
