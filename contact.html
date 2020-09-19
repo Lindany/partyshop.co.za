@@ -40,6 +40,9 @@
 <li><a href="contact.html" class="menu" target="_self">Contact Us</a></li>
 <li class="menu-bars">/</li>
 
+<link rel="stylesheet" href="assets/css/themify-icons.css">
+<link rel="stylesheet" href="assets/css/style.css"/>
+
 </ul>
 </nav>
 </div>
@@ -138,7 +141,122 @@ Contact Us
 <div class="container">
 <div class="content-area">
 
-<div id="content" class="content tc-pagebuilder"><div>Sample Store<br></div><div><br></div><p class="MsoNormal">This is contact us content<o:p></o:p></p> </div>
+<div id="content" class="content tc-pagebuilder">
+
+    <!-- the line below is needed -->
+    <link href="assets/css/fcf.default.css" rel="stylesheet">
+       <div class="row">
+        <div class="col-lg-6" >
+        <div id="fcf-form">
+            <form class="fcf-form-class" id="freeversion" method="post" action="assets/fcf.process.php">
+
+                <div class="field">
+                    <label for="Name" class="label has-text-weight-normal">Your name</label>
+                    <div class="control">
+                        <input type="text" name="Name" id="Name" class="input is-full-width" maxlength="100"
+                            data-validate-field="Name">
+                    </div>
+                </div>
+                <div class="field">
+                    <label for="Email" class="label has-text-weight-normal">Your email address</label>
+                    <div class="control">
+                        <input type="email" name="Email" id="Email" class="input is-full-width" maxlength="100"
+                            data-validate-field="Email">
+                    </div>
+                </div>
+                <div class="field">
+                    <label for="Message" class="label has-text-weight-normal">Your message</label>
+                    <div class="control">
+                        <textarea name="Message" id="Message" class="textarea" maxlength="3000" rows="5" 
+                        data-validate-field="Message"></textarea>
+                    </div>
+                </div>
+                <div id="fcf-status" class="fcf-status"></div>
+                <div class="field">
+                    <div class="buttons">
+                        <button id="fcf-button" type="submit" class="button is-link is-medium">Send Message</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div id="fcf-thank-you" style="display:none">
+            <!-- Thank you message goes below -->
+            <strong>Thank you</strong>
+            <p>Thanks for contacting us, we will get back in touch with you soon.</p>
+            <!-- Thank you message goes above -->
+        </div>
+    </div>
+     <div class="col-lg-6" >
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3345.9376034925917!2d27.897922315712254!3d-33.00542048219698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e66e1b7ca40bb9d%3A0x1113ed12f400b144!2s248%20Oxford%20St%2C%20Belgravia%2C%20East%20London%2C%205201!5e0!3m2!1sen!2sza!4v1588382414583!5m2!1sen!2sza" width="600" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                        <script>
+                            function initMap() {
+                                var uluru = {
+                                    lat: -25.363,
+                                    lng: 131.044
+                                };
+                                var grayStyles = [{
+                                        featureType: "all",
+                                        stylers: [{
+                                                saturation: -90
+                                            },
+                                            {
+                                                lightness: 50
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        elementType: 'labels.text.fill',
+                                        stylers: [{
+                                            color: '#ccdee9'
+                                        }]
+                                    }
+                                ];
+                                var map = new google.maps.Map(document.getElementById('map'), {
+                                    center: {
+                                        lat: -31.197,
+                                        lng: 150.744
+                                    },
+                                    zoom: 9,
+                                    styles: grayStyles,
+                                    scrollwheel: false
+                                });
+                            }
+                        </script>
+                        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&amp;callback=initMap">
+                        </script>
+        
+                    </div>
+                            <div class="col-lg-3 offset-lg-1">
+                            <div class="media contact-info">
+                                <span class="contact-info__icon"><i class="ti-home"></i></span>
+                                <div class="media-body">
+                                    <h5> 248 Oxford St Belgravia, East London, 5201.</h5>
+                                    <p>East London, Eastern Cape</p>
+                                </div>
+                            </div>
+                            <div class="media contact-info">
+                                <span class="contact-info__icon"><i class="ti-tablet"></i></span>
+                                <div class="media-body">
+                                    <h5>+27 123 4567 890</h5>
+                                    <p>Mon to Fri 8am to 17pm</p>
+                                </div>
+                            </div>
+                            <div class="media contact-info">
+                                <span class="contact-info__icon"><i class="ti-email"></i></span>
+                                <div class="media-body">
+                                    <h5>info@partyshoppe.co.za</h5>
+                                    <p>Send us an email</p>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+    <script src="assets/js/fcf.just-validate.min.js"></script>
+    <script src="assets/js/fcf.form.js"></script>
+    <!-- the lines above are needed -->
+
+
+
+</div>
 </div>
 </div>
 </section>
