@@ -25,6 +25,11 @@
 <link rel="StyleSheet" href="assets/templates/Wanderland-core/css/defaultd205.css?vcart=10.2.7" type="text/css" />
 
 <script type="text/javascript">var _3d_cart = {"oid":0,"itemcount":0,"itemsum":0,"subtotal":0,"currency":"USD"};</script>
+<style type="text/css">
+	.site-footer {
+ 	    border-top:0px solid #ccc !important;
+	}
+</style>
 </head>
 <body class="home-page leftbar rightbar qv-enabled not-logged-in" data-currency="R" data-decimal="2">
 <section class="top-nav hidden-xs">
@@ -125,7 +130,8 @@
 <ul class="slides">
 
 <li><a href=""><img src="assets/images/slider1.jpg" alt="" /></a></li>
-<li><a href=""><img src="assets/images/slider1.jpg" alt="" /></a></li>
+<li><a href=""><img src="assets/images/banner.jpg" alt="" /></a></li>
+<li><a href=""><img src="assets/images/banner2.jpg" alt="" /></a></li>
 
 </ul>
 </div>
@@ -146,11 +152,1175 @@
 
 <ul class="product-items slides" data-productcols="3">
 <script class="slick-cloned" type="text/javascript">if (typeof _3d_items_collection === "undefined") { window._3d_items_collection = {}; }</script>
+
+<!-- ================================================== 1 ==============================================  -->
+
 <li>
 <div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
 <div class="product-holder">
 <div class="img">
-<img src="assets/images/thumbnails/product5_thumbnail.jpg" alt="Alphabet Blocks" class="img-responsive" />
+<img src="assets/images/9.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Shop
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 2 ==============================================  -->
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/2.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 1
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 3 ==============================================  -->
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/3.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 2
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 4 ==============================================  -->
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/4.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 3
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 5 ==============================================  -->
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/5.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 4
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 6 ==============================================  -->
+
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/11.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 5
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 7 ==============================================  -->
+
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/6.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 6
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+
+<!-- ================================================== 8 ==============================================  -->
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/8.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 7
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 9 ==============================================  -->
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/1.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 8
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 10 ==============================================  -->
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/10.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 9
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 11 ==============================================  -->
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/11.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 10
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 12 ==============================================  -->
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/11.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 11
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 12 ==============================================  -->
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/12.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 12
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 13 ==============================================  -->
+
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/13.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 13
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 14 ==============================================  -->
+
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/14.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 14
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 15 ==============================================  -->
+
+
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/15.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 15
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+
+<!-- ================================================== 16 ==============================================  -->
+
+<!-- 
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/6.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 16
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li>
+ -->
+<!-- ================================================== 17 ==============================================  -->
+
+
+<!-- <li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/17.jpeg" alt="Alphabet Blocks" class="img-responsive" />
+
+
+<button class="quickview" data-toggle="modal">Quick View</button>
+
+</div>
+<div class="product-content">
+<div class="name">
+Product 17
+
+<div class="status">
+
+<span class="availability">In Stock.</span>
+
+
+<span class="freeshipping">Free Shipping.</span>
+
+</div>
+
+
+<div class="action">
+<a href="view_cart509f.html?quick=1&amp;item_id=5&amp;cat_id=0" class="add-to-cart btn btn-default">
+<span class="buyitlink-text">Add To Cart</span>
+<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
+<span class="ajaxcart-added icon-ok"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+</div>
+<script>
+	function checkPrevPurch(userId, caId) {
+
+		jQuery.ajax({
+			url: 'ajaxPrevPurch.asp',
+			dataType: 'json',
+			type: 'get',
+			data: 'cu=' + userId + '&ca=' + caId,
+			cache: false,
+			success: function(strResult) {
+				if (strResult.trackinglink != '') {
+					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
+					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
+					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
+				}
+				else {
+					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
+				}
+			},
+			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
+
+		});
+	}
+</script>
+</li> -->
+
+<!-- ================================================== 12 ==============================================  -->
+
+<!-- 
+<li>
+<div class="product-item" data-catalogid="5" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
+<div class="product-holder">
+<div class="img">
+<img src="assets/images/12.jpeg" alt="Alphabet Blocks" class="img-responsive" />
 
 
 <button class="quickview" data-toggle="modal">Quick View</button>
@@ -206,307 +1376,11 @@ Birthday
 		});
 	}
 </script>
-</li>
-<li>
-<div class="product-item" data-catalogid="11" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
-<div class="product-holder">
-<div class="img">
-<img src="assets/images/thumbnails/product5_thumbnail.jpg" alt="Alphabet Blocks" class="img-responsive" />
-
-<button class="quickview" data-toggle="modal">Quick View</button>
-
-</div>
-<div class="product-content">
-<div class="name">
-Barchelor
-</div>
-<span class="on-sale-badge">Sale</span>
-
-<div class="status">
-
-<span class="availability">In Stock.</span>
-
-</div>
+</li> -->
+<!-- ================================================== 13 ==============================================  -->
 
 
-<div class="action">
-<a href="Alphabet-Blocks_p_11.html?quick=1&amp;item_id=11&amp;cat_id=0" class="add-to-cart btn btn-default">
-<span class="buyitlink-text"> Select Options</span>
-<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
-<span class="ajaxcart-added icon-ok"></span>
-</a>
-</div>
 
-
-</div>
-</div>
-</div>
-<script>
-	function checkPrevPurch(userId, caId) {
-
-		jQuery.ajax({
-			url: 'ajaxPrevPurch.asp',
-			dataType: 'json',
-			type: 'get',
-			data: 'cu=' + userId + '&ca=' + caId,
-			cache: false,
-			success: function(strResult) {
-				if (strResult.trackinglink != '') {
-					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
-					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
-					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
-				}
-				else {
-					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
-				}
-			},
-			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
-
-		});
-	}
-</script>
-</li>
-<li>
-<div class="product-item" data-catalogid="2" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
-<div class="product-holder">
-<div class="img">
-<img src="assets/images/thumbnails/product2_thumbnail.jpg" alt="Rocket Ship" class="img-responsive" />
-
-<button class="quickview" data-toggle="modal">Quick View</button>
-
-</div>
-<div class="product-content">
-<div class="name">
-Super Hero
-</div>
-
-<div class="status">
-
-<span class="availability">In Stock.</span>
-
-</div>
-
-
-<div class="action">
-<a href="view_cartd842.html?quick=1&amp;item_id=2&amp;cat_id=0" class="add-to-cart btn btn-default">
-<span class="buyitlink-text"> Select Options</span>
-<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
-<span class="ajaxcart-added icon-ok"></span>
-</a>
-</div>
-
-
-</div>
-</div>
-</div>
-<script>
-	function checkPrevPurch(userId, caId) {
-
-		jQuery.ajax({
-			url: 'ajaxPrevPurch.asp',
-			dataType: 'json',
-			type: 'get',
-			data: 'cu=' + userId + '&ca=' + caId,
-			cache: false,
-			success: function(strResult) {
-				if (strResult.trackinglink != '') {
-					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
-					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
-					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
-				}
-				else {
-					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
-				}
-			},
-			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
-
-		});
-	}
-</script>
-</li>
-<li>
-<div class="product-item" data-catalogid="3" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
-<div class="product-holder">
-<div class="img">
-<img src="assets/images/thumbnails/product3_thumbnail.jpg" alt="Tangram Puzzle" class="img-responsive" />
-
-<button class="quickview" data-toggle="modal">Quick View</button>
-
-</div>
-<div class="product-content">
-<div class="name">
-Super Hero
-</div>
-
-<div class="status">
-
-<span class="availability">Ships in 24hrs</span>
-
-
-<span class="freeshipping">Free Shipping.</span>
-
-</div>
-
-
-<div class="action">
-<a href="view_cart509f.html?quick=1&amp;item_id=3&amp;cat_id=0" class="add-to-cart btn btn-default">
-<span class="buyitlink-text">Add To Cart</span>
-<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
-<span class="ajaxcart-added icon-ok"></span>
-</a>
-</div>
-
-
-</div>
-</div>
-</div>
-<script>
-	function checkPrevPurch(userId, caId) {
-
-		jQuery.ajax({
-			url: 'ajaxPrevPurch.asp',
-			dataType: 'json',
-			type: 'get',
-			data: 'cu=' + userId + '&ca=' + caId,
-			cache: false,
-			success: function(strResult) {
-				if (strResult.trackinglink != '') {
-					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
-					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
-					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
-				}
-				else {
-					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
-				}
-			},
-			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
-
-		});
-	}
-</script>
-</li>
-<li>
-<div class="product-item" data-catalogid="1" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
-<div class="product-holder">
-<div class="img">
-<img src="assets/images/thumbnails/product1_thumbnail.jpg" alt="Wooden Abacus" class="img-responsive" />
-
-<button class="quickview" data-toggle="modal">Quick View</button>
-
-</div>
-<div class="product-content">
-<div class="name">
-Birthday
-</div>
-
-<span class="on-sale-badge">Sale</span>
-
-
-<div class="status">
-
-<span class="availability">In Stock.</span>
-
-
-<span class="freeshipping">Free Shipping.</span>
-
-</div>
-
-
-<div class="action">
-<a href="Wooden-Abacus_p_1.html?quick=1&amp;item_id=1&amp;cat_id=0" class="add-to-cart btn btn-default">
-<span class="buyitlink-text"> Select Options</span>
-<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
-<span class="ajaxcart-added icon-ok"></span>
-</a>
-</div>
-
-
-</div>
-</div>
-</div>
-<script>
-	function checkPrevPurch(userId, caId) {
-
-		jQuery.ajax({
-			url: 'ajaxPrevPurch.asp',
-			dataType: 'json',
-			type: 'get',
-			data: 'cu=' + userId + '&ca=' + caId,
-			cache: false,
-			success: function(strResult) {
-				if (strResult.trackinglink != '') {
-					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
-					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
-					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
-				}
-				else {
-					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
-				}
-			},
-			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
-
-		});
-	}
-</script>
-</li>
-<li>
-<div class="product-item" data-catalogid="6" data-ajaxcart="1" data-addcart-callback="addcart_callback" data-categoryid="0">
-<div class="product-holder">
-<div class="img">
-<img src="assets/images/thumbnails/product6_thumbnail.jpg" alt="Wooden Cross Puzzle" class="img-responsive" />
-
-<button class="quickview" data-toggle="modal">Quick View</button>
-
-</div>
-<div class="product-content">
-<div class="name">
-Halloween
-</div>
-,
-<div class="status">
-
-<span class="availability">Back Order.</span>
-
-</div>
-
-
-<div class="action">
-<a href="Wooden-Cross-Puzzle_p_6.html?quick=1&amp;item_id=6&amp;cat_id=0" class="add-to-cart btn btn-default">
-<span class="buyitlink-text"> Select Options</span>
-<span class="ajaxcart-loader icon-spin2 animate-spin"></span>
-<span class="ajaxcart-added icon-ok"></span>
-</a>
-</div>
-
-
-</div>
-</div>
-</div>
-<script>
-	function checkPrevPurch(userId, caId) {
-
-		jQuery.ajax({
-			url: 'ajaxPrevPurch.asp',
-			dataType: 'json',
-			type: 'get',
-			data: 'cu=' + userId + '&ca=' + caId,
-			cache: false,
-			success: function(strResult) {
-				if (strResult.trackinglink != '') {
-					jQuery("#lnkPrevPurchOrderTracking_" + String(caId)).attr("href", strResult.trackinglink);
-					jQuery("#divPrevMessage_" + String(caId)).css({ "display": "block" });
-					jQuery("#spnPrevPurchDate_" + String(caId)).html(strResult.purchaseDate);
-				}
-				else {
-					jQuery("#divPrevMessage_" +  String(caId)).css({ "display": "none" });
-				}
-			},
-			error: jQuery("#divPrevMessage_" + String(caId)).css({ "display": "none" })
-
-		});
-	}
-</script>
-</li>
 </ul>
 
 </div>
